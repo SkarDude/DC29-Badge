@@ -23,7 +23,7 @@ Scripts, notes, shoutouts and completion of the Defcon 29 Badge
 
 ## DefCon 29 General
 
-This year the conference was a little different with it being a hybrid con. There was not as much to do in person. So it allowed a [Vincent Wingfield](https://www.linkedin.com/in/vincentwingfield/) (electrical engineer) and myself [Alex Hough](https://alexpert.tech) (software dev) to focus on the badge challenge.
+This year the conference was a little different with it being a hybrid con. There was not as much to do in person. So it allowed [Vincent Wingfield](https://www.linkedin.com/in/vincentwingfield/) (electrical engineer) and myself [Alex Hough](https://alexpert.tech) (software dev) to focus on the badge challenge.
 
 ## ReCon (see what I did there)
 
@@ -180,7 +180,7 @@ We had a message about the encryption on the badge to generate those virtual str
 
 ## [Part 13](https://defcon.org/signal/YourJourneyBegins/AlphabetShift/SandsSaharaAladdin/MC56F8006VLC/VendorSpeakerArtistCreatorHumanPressGoon/WatchYourHead/AlexisPark/SnowWhiteAndTheSevenDwarfs/ItWasTotallyAliens/XOR/)
 
-We are shown a picture of an older paper with dates. Then a string of hyphen separated numbers with 5 places instead of 3 as shown in the photo. I recognized the photo but it took me a bit to realize it was a photo from national treasure. The hint was kind of useful in the html it was Year - P -L -W -L. While we were trying to figure out what it was referring to I recognized that the years never went above 27 which made me think of previous def cons. It also clicked finally that it was national treasure and we started watching clips on youtube with the lemons and after (why does the dad have so  many lemons in his fridge). We finally got the clue it was an Ottendorf cipher or a book cipher. So Year - page - line - word - letter for 73 chars yikes. Hat tip to my buddy for massaging and decoding this by hand while I played craps that night. Ultimately with some fine tweaking we had the challenge done at 04:00 on Aug 7. We definitely were not first but we had a blast.
+We are shown a picture of an older paper with dates. Then a string of hyphen separated numbers with 5 places instead of 3 as shown in the photo. I recognized the photo but it took me a bit to realize it was a photo from national treasure. The hint was kind of useful in the html it was Year - P -L -W -L. While we were trying to figure out what it was referring to I recognized that the years never went above 27 which made me think of previous def cons. It also clicked finally that it was national treasure and we started watching clips on youtube with the lemons and after (why does the dad have so  many lemons in his fridge). We finally got the clue it was an Ottendorf cipher or a book cipher. So Year - page - line - word - letter for 73 chars yikes. Knowing that the year linked to the programs as the 28/safe mode did not have one and 29 was not available yet we had to pull up all of the pdfs. Hat tip to my buddy for massaging and decoding this by hand while I played craps that night. Ultimately with some fine tweaking we had the challenge done at 04:00 on Aug 7. We definitely were not first but we had a blast.
 
 ## Summary
 
